@@ -1,3 +1,3 @@
-void start(void)
+void __start(void)
 {
 }
